@@ -9,5 +9,7 @@ A .ini GUI tool for Starfield
 
 ## Requirements
 
-- The release version requires at least the .NET Framework 4.8 runtime: https://dotnet.microsoft.com/en-us/download/dotnet-framework
+- The release version requires at least the .NET Framework 4.8 runtime. This should have been installed by Windows a few years ago automatically with Windows System Updates. However, you can manually install the .NET 4.8 Runtime below:
+  - https://learn.microsoft.com/en-us/dotnet/framework/install/on-windows-10
+  - https://dotnet.microsoft.com/en-us/download/dotnet-framework
 
